@@ -1,4 +1,5 @@
 Usage: python jiagu.py
+
 只能加固单一dex的apk,测试系统为安卓4.4
 
 效果：实现dex文件整体加密、隐藏
